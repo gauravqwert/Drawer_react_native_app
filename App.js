@@ -1,3 +1,5 @@
+// Example 1:
+
 // import 'react-native-gesture-handler';
 // import React from "react";
 // import { createDrawerNavigator } from "@react-navigation/drawer";
@@ -16,6 +18,8 @@
 //     </NavigationContainer>
 //   );
 // }
+
+ // Example 2 :
 
 import * as React from 'react';
 import { Button, View } from 'react-native';
